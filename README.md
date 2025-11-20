@@ -6,7 +6,7 @@ A simple Java console-based inventory system inspired by real SAP transactions M
 This project simulates basic warehouse inventory operations, including adding materials, searching entries, sorting data, and calculating total inventory value.
 
 Features
-✔ MIGO – Add Material
+MIGO – Add Material
 
 Add a new material entry with:
 
@@ -20,7 +20,7 @@ Delivery date
 
 Entry is saved to a persistent text file (myfile.txt).
 
-✔ MB51 – Display / Manage Entries
+MB51 – Display / Manage Entries
 
 Show all material entries.
 
@@ -32,7 +32,7 @@ Delete an entry by ID.
 
 Calculate total inventory value.
 
-✔ Enum-Based Product Price Catalog
+Enum-Based Product Price Catalog
 
 Prices are stored using a Java enum (Prices.java).
 
