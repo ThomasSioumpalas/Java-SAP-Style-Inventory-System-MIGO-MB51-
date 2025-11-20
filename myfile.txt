@@ -1,0 +1,3 @@
+Id:8| Material: BOTTLE| Ammount: 2.0| Date of entry: 21102025
+Id:9| Material: TAGS| Ammount: 800.0| Date of entry: 20112025
+Id:10| Material: TAGS| Ammount: 2.0| Date of entry: 21102025
